@@ -2,7 +2,6 @@
 ## Customer Complaint Analysis using NLP
 ### Case Study: Stanbic Bank Uganda
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![NLP](https://img.shields.io/badge/NLP-Topic%20Modeling-green)
 ![Model](https://img.shields.io/badge/Model-BERT%20%7C%20LDA-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
